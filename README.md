@@ -21,8 +21,3 @@ General Product Feature Evaluation Methodology &amp; Skills: Optimized for Curso
 - `scripts/` - 工具脚本
 ```
 
-### 第四步：分享链接
-
-把你的GitHub链接发给别人：
-```
-https://github.com/你的用户名/evaluation-skill
